@@ -30,3 +30,12 @@ Significant variables to predict the demand for shared bikes
 - months (January, August, September)
 - Weekday (saturday, sunday)
 - weathersit (Light snow/rain, Mist)
+
+## Acknowledgements
+This project assignment is by the upGrad team, is designed to asses understanding and application of Linear Regression concepts.
+
+
+## Contact
+Create by @MayurSurkutla
+
+
