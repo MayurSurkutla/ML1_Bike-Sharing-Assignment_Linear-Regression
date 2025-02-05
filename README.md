@@ -11,6 +11,15 @@
 - The Bike Sharing Model aims to predict how many people will use shared bikes after the Covid-19 quarantine ends. This will help them get ready to meet customer demand, stay ahead of competitors, and increase their profits.
 - This project provides a linear regression model to help management see how demand changes with different factors. They can use this information to adjust their business strategy and meet customer needs. The model will also help them understand demand patterns in a new market.
 
+## Technologies Used
+- Python: 3.12.3
+- numPy: 2.2.2
+- pandas: 2.2.2
+- matplotlib: 3.10.0
+- seaborn: 0.13.2
+- scikit-learn: 1.6.1
+- statsmodel: 0.14.4
+
 ## Conclusions
 Significant variables to predict the demand for shared bikes
 - Year
@@ -21,5 +30,3 @@ Significant variables to predict the demand for shared bikes
 - months (January, August, September)
 - Weekday (saturday, sunday)
 - weathersit (Light snow/rain, Mist)
-
-- 
